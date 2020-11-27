@@ -1,3 +1,3 @@
 # LxVue
 
-## 原生js实现部分vue功能，探索vue原理
+## 基于原生js实现部分vue功能，探索vue原理
